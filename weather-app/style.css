@@ -91,3 +91,13 @@ body{
     font-size: 25px;
     margin-top: -6px;
 }
+.weather{
+    display: none;
+}
+.error{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 14px;
+    display: none;
+}
